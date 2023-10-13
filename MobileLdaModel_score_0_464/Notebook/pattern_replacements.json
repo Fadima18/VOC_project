@@ -1,0 +1,130 @@
+[
+    {
+        "pattern": "\\bpositionn\\b",
+        "replacement": "positionner"
+    },
+    {
+        "pattern": "\\brechargemer\\b",
+        "replacement": "rechargement"
+    },
+    {
+        "pattern": "\\bbloqu\\b",
+        "replacement": "bloque"
+    },
+    {
+        "pattern": "\\brechar\\b",
+        "replacement": "retrait"
+    },
+    {
+        "pattern": "\\bretraire\\b",
+        "replacement": "retrait"
+    },
+    {
+        "pattern": "\\bstart\\b",
+        "replacement": "star"
+    },
+    {
+        "pattern": "\\bsouscrir\\b",
+        "replacement": "souscription"
+    },
+    {
+        "pattern": "\\bsauvegard\\b",
+        "replacement": "sauvegarde"
+    },
+    {
+        "pattern": "\\brepertoir\\b",
+        "replacement": "repertoire"
+    },
+    {
+        "pattern": "\\brecu\\b",
+        "replacement": "reçu"
+    },
+    {
+        "pattern": "\\bperdre\\b",
+        "replacement": "perdu"
+    },
+    {
+        "pattern": "\\bcredit\\b",
+        "replacement": "crédit"
+    },
+    {
+        "pattern": "\\binf\\b",
+        "replacement": "information"
+    },
+    {
+        "pattern": "\\bsouscrir\\b",
+        "replacement": "souscription"
+    },
+    {
+        "pattern": "\\billimi\\b",
+        "replacement": "illimix"
+    },
+    {
+        "pattern": "\\bperte\\b",
+        "replacement": "perdu"
+    },
+    {
+        "pattern": "\\bperdre\\u00A0",
+        "replacement": "perdu"
+    },
+    {
+        "pattern": "\\bperte\\u00A0",
+        "replacement": "perdu"
+    },
+    {
+        "pattern": "\\bbénéficiaire faux\\b",
+        "replacement": "faux bénéficiaire"
+    },
+    {
+        "pattern": "\\bfaire sos\\b",
+        "replacement": "souscrire sos"
+    },
+    {
+        "pattern": "\\bsouscrir sos\\b",
+        "replacement": "souscrire sos"
+    },
+    {
+        "pattern": "\\bcnx\\b",
+        "replacement": "connexion"
+    },
+    {
+        "pattern": "\\b cnx \\b",
+        "replacement": "connexion"
+    },
+    {
+        "pattern": "\\bpasser\\b",
+        "replacement": "passe"
+    },
+    {
+        "pattern": "\\bpass\\b",
+        "replacement": "passe"
+    },
+    {
+        "pattern": "\\bmot de pass\\b",
+        "replacement": "mdp"
+    },
+    {
+        "pattern": "\\bsusp\\b",
+        "replacement": "suspension"
+    },
+    {
+        "pattern": "\\bfactur\\b",
+        "replacement": "facture"
+    },
+    {
+        "pattern": "\\bfibr\\b",
+        "replacement": "fibre"
+    },
+    {
+        "pattern": "\\binfo\\b",
+        "replacement": "information"
+    },
+    {
+        "pattern": "\\bomo\\b",
+        "replacement": "om"
+    },
+    {
+        "pattern": "\\borange money\\b",
+        "replacement": "om"
+    }
+]
